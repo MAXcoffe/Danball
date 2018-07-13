@@ -1,0 +1,8 @@
+*.tlog
+*.ipch
+UpgradeLog.htm
+ES Game Library/Release/Resource.res
+ES Game Library/Debug/vc120.idb
+ES Game Library/Debug/Resource.res
+ES Game Library.sdf
+.vs/ES Game Library/v15/Browse.VC.db
